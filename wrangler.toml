@@ -1,4 +1,4 @@
-name = "stremio-premiumize-addon"
+name = "stremio-premiumize"
 main = "src/index.js"
 compatibility_date = "2024-12-02"
 workers_dev = true
@@ -8,4 +8,4 @@ compatibility_flags = [ "nodejs_compat" ]
 enabled = true
 [[kv_namespaces]]
 binding = "KV"
-id = "f17afbb7db964d5cb890ab869c6660ee"
+id = "bd6aa6f038354de5ba0df2a69d2d36f5"
